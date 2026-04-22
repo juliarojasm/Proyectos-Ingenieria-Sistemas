@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Navegador\\source\\repos\\Trabajo Practico 3- Julia Rojas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38E3F0BE-73B0-4417-AA3E-B99AA21911BC}|Ejercicio 3\\Ejercicio 3.vcxproj|C:\\Users\\Navegador\\source\\repos\\Trabajo Practico 3- Julia Rojas\\Ejercicio 3\\Ejercicio 3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{38E3F0BE-73B0-4417-AA3E-B99AA21911BC}|Ejercicio 3\\Ejercicio 3.vcxproj|solutionrelative:Ejercicio 3\\Ejercicio 3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF7717AC-2B8B-47FC-A4C3-11C914F74630}|Ejercicio 2\\Ejercicio 2.vcxproj|C:\\Users\\Navegador\\source\\repos\\Trabajo Practico 3- Julia Rojas\\Ejercicio 2\\Ejercicio 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF7717AC-2B8B-47FC-A4C3-11C914F74630}|Ejercicio 2\\Ejercicio 2.vcxproj|solutionrelative:Ejercicio 2\\Ejercicio 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio 3.cpp",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Trabajo Practico 3- Julia Rojas\\Ejercicio 3\\Ejercicio 3.cpp",
+              "RelativeDocumentMoniker": "Ejercicio 3\\Ejercicio 3.cpp",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Trabajo Practico 3- Julia Rojas\\Ejercicio 3\\Ejercicio 3.cpp",
+              "RelativeToolTip": "Ejercicio 3\\Ejercicio 3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-22T14:08:14.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio 2.cpp",
+              "DocumentMoniker": "C:\\Users\\Navegador\\source\\repos\\Trabajo Practico 3- Julia Rojas\\Ejercicio 2\\Ejercicio 2.cpp",
+              "RelativeDocumentMoniker": "Ejercicio 2\\Ejercicio 2.cpp",
+              "ToolTip": "C:\\Users\\Navegador\\source\\repos\\Trabajo Practico 3- Julia Rojas\\Ejercicio 2\\Ejercicio 2.cpp",
+              "RelativeToolTip": "Ejercicio 2\\Ejercicio 2.cpp",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-22T14:00:23.736Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
