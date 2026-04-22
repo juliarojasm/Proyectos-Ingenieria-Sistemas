@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julia\\Desktop\\Trabajo Practico 2 - Julia Rojas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14C04F08-4D5A-45FD-9BF8-C1CE5287947B}|Ejercicio 8\\Ejercicio 8.vcxproj|C:\\Users\\julia\\Desktop\\Trabajo Practico 2 - Julia Rojas\\Ejercicio 8\\Ejercicio 8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14C04F08-4D5A-45FD-9BF8-C1CE5287947B}|Ejercicio 8\\Ejercicio 8.vcxproj|solutionrelative:Ejercicio 8\\Ejercicio 8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A7950E-B1D5-41FC-A63B-060F93C00652}|Ejercicio 7\\Ejercicio 7.vcxproj|C:\\Users\\julia\\Desktop\\Trabajo Practico 2 - Julia Rojas\\Ejercicio 7\\Ejercicio 7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B9A7950E-B1D5-41FC-A63B-060F93C00652}|Ejercicio 7\\Ejercicio 7.vcxproj|solutionrelative:Ejercicio 7\\Ejercicio 7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio 8.cpp",
+              "DocumentMoniker": "C:\\Users\\julia\\Desktop\\Trabajo Practico 2 - Julia Rojas\\Ejercicio 8\\Ejercicio 8.cpp",
+              "RelativeDocumentMoniker": "Ejercicio 8\\Ejercicio 8.cpp",
+              "ToolTip": "C:\\Users\\julia\\Desktop\\Trabajo Practico 2 - Julia Rojas\\Ejercicio 8\\Ejercicio 8.cpp",
+              "RelativeToolTip": "Ejercicio 8\\Ejercicio 8.cpp",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAkwFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-16T18:00:01.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio 7.cpp",
+              "DocumentMoniker": "C:\\Users\\julia\\Desktop\\Trabajo Practico 2 - Julia Rojas\\Ejercicio 7\\Ejercicio 7.cpp",
+              "RelativeDocumentMoniker": "Ejercicio 7\\Ejercicio 7.cpp",
+              "ToolTip": "C:\\Users\\julia\\Desktop\\Trabajo Practico 2 - Julia Rojas\\Ejercicio 7\\Ejercicio 7.cpp",
+              "RelativeToolTip": "Ejercicio 7\\Ejercicio 7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-15T22:32:00.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
