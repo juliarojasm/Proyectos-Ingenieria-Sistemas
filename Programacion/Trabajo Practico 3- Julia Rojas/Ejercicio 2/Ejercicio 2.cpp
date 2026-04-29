@@ -3,27 +3,23 @@
 
 int main()
 {
-	int valor = 0, cant_valores = 0, positivos = 0, ceros = 0, negativos = 0;
+	int valor = 0, positivos = 0, ceros = 0, negativos = 0;
 
-	while (cant_valores < 10)
+	for (int i = 0; i < 6; i++)
 	{
-		printf("Ingrese el valor %d:\n", cant_valores);
+		printf("Ingrese el valor %d:\n", i);
 		scanf_s("%d", &valor);
-		cant_valores += 1;
 		if (valor > 0)
 		{
 			positivos += 1;
 		}
+		else if (valor == 0)
+		{
+			ceros++;
+		}
 		else
 		{
-			if (valor == 0)
-			{
-				ceros += 1;
-			}
-			else
-			{
-				negativos += 1;
-			}
+			negativos++;
 		}
 	}
 	

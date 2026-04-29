@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Ejercicio A01/Ejercicio A01.vcxproj" />
+  <Project Path="Ejercicio A02/Ejercicio A02.vcxproj" />
+  <Project Path="Ejercicio A03/Ejercicio A03.vcxproj" />
+  <Project Path="Ejercicio A04/Ejercicio A04.vcxproj" />
+  <Project Path="Ejercicio A05/Ejercicio A05.vcxproj" />
+  <Project Path="Ejercicio A06/Ejercicio A06.vcxproj" />
+  <Project Path="Ejercicio B01/Ejercicio B01.vcxproj" />
+</Solution>

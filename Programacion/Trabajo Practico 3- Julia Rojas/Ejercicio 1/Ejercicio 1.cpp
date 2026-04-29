@@ -3,15 +3,14 @@
 
 int main()
 {
-	int suma = 0, valor = 0, promedio = 0, cant_valores = 0;
+	int suma = 0, valor = 0, promedio = 0;
 	
-	while (cant_valores < 25)
+	for (int i = 0; i < 5; i++)
 	{
 		printf("Ingrese un valor:\n");
 		scanf_s("%d", &valor);
-		cant_valores += 1;
 		suma = suma + valor;
 	}
-	promedio = suma / 25;
+	promedio = suma / 5;
 	printf("Su promedio es: %d.\n",promedio);
 }
