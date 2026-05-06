@@ -2,19 +2,19 @@
 
 main()
 {
-	char patente[10];
+	char patente[7];
 	int monto_multa = 0, suma_may40 = 0, porc40 = 0, cant40 = 0, total = 0;
 
 	for (int i = 0; i < 10; i++)
 	{
 		printf("Ingrese patente del auto: \n");
-		scanf_s("%s", &patente);
+		scanf_s("%s", patente, 7); //ya le decimos el tamanio especifico, no hace falta agregar el &
 		printf("Ingrese monto de la multa: \n");
 		scanf_s("%d", &monto_multa);
 
 		total += monto_multa;
 
-		if (monto_multa >= 40)
+		if (monto_multa > 40)
 		{
 			cant40++;
 			suma_may40 += monto_multa;
