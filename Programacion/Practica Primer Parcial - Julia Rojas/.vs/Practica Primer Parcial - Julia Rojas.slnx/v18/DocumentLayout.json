@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\julia\\Desktop\\Facu\\1er a\u00F1o\\1er cuatrimestre\\Programacion\\Practica Primer Parcial - Julia Rojas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59BA231E-FB32-4DD6-BEED-8B7169A48C5E}|Ejercicio 1\\Ejercicio 1.vcxproj|C:\\Users\\julia\\Desktop\\Facu\\1er a\u00F1o\\1er cuatrimestre\\Programacion\\Practica Primer Parcial - Julia Rojas\\Ejercicio 1\\Ejercicio 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{59BA231E-FB32-4DD6-BEED-8B7169A48C5E}|Ejercicio 1\\Ejercicio 1.vcxproj|solutionrelative:Ejercicio 1\\Ejercicio 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4EC24202-A49A-4519-9786-5E717A5F8B3A}|Ejercicio 03\\Ejercicio 03.vcxproj|C:\\Users\\julia\\Desktop\\Facu\\1er a\u00F1o\\1er cuatrimestre\\Programacion\\Practica Primer Parcial - Julia Rojas\\Ejercicio 03\\Ejercicio 03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EC24202-A49A-4519-9786-5E717A5F8B3A}|Ejercicio 03\\Ejercicio 03.vcxproj|solutionrelative:Ejercicio 03\\Ejercicio 03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Ejercicio 1.cpp",
-              "DocumentMoniker": "C:\\Users\\julia\\Desktop\\Facu\\1er a\u00F1o\\1er cuatrimestre\\Programacion\\Practica Primer Parcial - Julia Rojas\\Ejercicio 1\\Ejercicio 1.cpp",
-              "RelativeDocumentMoniker": "Ejercicio 1\\Ejercicio 1.cpp",
-              "ToolTip": "C:\\Users\\julia\\Desktop\\Facu\\1er a\u00F1o\\1er cuatrimestre\\Programacion\\Practica Primer Parcial - Julia Rojas\\Ejercicio 1\\Ejercicio 1.cpp",
-              "RelativeToolTip": "Ejercicio 1\\Ejercicio 1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Title": "Ejercicio 03.cpp",
+              "DocumentMoniker": "C:\\Users\\julia\\Desktop\\Facu\\1er a\u00F1o\\1er cuatrimestre\\Programacion\\Practica Primer Parcial - Julia Rojas\\Ejercicio 03\\Ejercicio 03.cpp",
+              "RelativeDocumentMoniker": "Ejercicio 03\\Ejercicio 03.cpp",
+              "ToolTip": "C:\\Users\\julia\\Desktop\\Facu\\1er a\u00F1o\\1er cuatrimestre\\Programacion\\Practica Primer Parcial - Julia Rojas\\Ejercicio 03\\Ejercicio 03.cpp",
+              "RelativeToolTip": "Ejercicio 03\\Ejercicio 03.cpp",
+              "ViewState": "AgIAAJgAAAAAAAAAAADwv68AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-13T11:12:40.841Z",
+              "WhenOpened": "2026-05-20T12:04:57.88Z",
               "EditorCaption": ""
             }
           ]
