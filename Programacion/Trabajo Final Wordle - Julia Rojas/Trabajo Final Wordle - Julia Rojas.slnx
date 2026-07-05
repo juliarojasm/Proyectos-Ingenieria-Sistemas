@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Wordle/Wordle.vcxproj" Id="cbf1c904-98c8-4441-a379-919889c63f89" />
+</Solution>
