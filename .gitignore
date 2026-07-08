@@ -53,3 +53,15 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+**/.vs/
+**/bin/
+**/obj/
+*.ipch
+*.pdb
+*.user
+*.suo
+*.vsidx
+*.VC.db
+*.db-shm
+*.db-wal
