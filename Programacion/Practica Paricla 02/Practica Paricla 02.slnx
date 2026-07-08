@@ -1,0 +1,19 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Bubble + binario 01/Bubble + binario 01.vcxproj" Id="ee2c3441-97a1-44e4-af2a-e059c919659e" />
+  <Project Path="Bubble sort 01/Bubble sort 01.vcxproj" Id="fada4117-b265-49f0-9d4c-541f29f6926d" />
+  <Project Path="Bubble sorting 02/Bubble sorting 02.vcxproj" Id="353a9cf1-ecd3-42b7-8012-587205cb6d96" />
+  <Project Path="Busqueda Binaria 01/Busqueda Binaria 01.vcxproj" Id="3f9032e4-abe1-40da-a623-63bdc4866f04" />
+  <Project Path="Busqueda Binaria 02/Busqueda Binaria 02.vcxproj" Id="dc559fee-bf77-4d15-afe1-07c15d279a59" />
+  <Project Path="Ejercicio 01/Ejercicio 01.vcxproj" Id="8cd2f380-1f94-4435-972c-8f7ebf2a934d" />
+  <Project Path="Ejercicio 02/Ejercicio 02.vcxproj" Id="f2e21b6d-0f66-4eee-8bdc-910ecf1b0d23" />
+  <Project Path="Ejercicio 03/Ejercicio 03.vcxproj" Id="a4a4a732-c677-457a-aa83-5cff8ce3c965" />
+  <Project Path="Ejercicio 04/Ejercicio 04.vcxproj" Id="6eb68411-742e-4d52-b43e-e58e639fae27" />
+  <Project Path="Ejercicio 05/Ejercicio 05.vcxproj" Id="21331ed2-6ce4-4321-be14-e48be012ee2c" />
+  <Project Path="Ejercicio integrado 02/Ejercicio integrado 02.vcxproj" Id="30f4deb0-3e96-4fe8-9d41-b40a45bb6c3c" />
+  <Project Path="Ejercicio integrador 01/Ejercicio integrador 01.vcxproj" Id="65466184-a28c-4b85-82dd-237d0d8fcecc" />
+  <Project Path="Ejercicio integrador 03/Ejercicio integrador 03.vcxproj" Id="b4ff4639-f498-4e04-811d-6be303fbd883" />
+</Solution>

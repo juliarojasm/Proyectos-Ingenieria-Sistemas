@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julia\\Desktop\\Facu\\1er a\u00F1o\\1er cuatrimestre\\Programacion\\Practica Paricla 02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FF4639-F498-4E04-811D-6BE303FBD883}|Ejercicio integrador 03\\Ejercicio integrador 03.vcxproj|C:\\Users\\julia\\Desktop\\Facu\\1er a\u00F1o\\1er cuatrimestre\\Programacion\\Practica Paricla 02\\Ejercicio integrador 03\\Ejercicio integrador 03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4FF4639-F498-4E04-811D-6BE303FBD883}|Ejercicio integrador 03\\Ejercicio integrador 03.vcxproj|solutionrelative:Ejercicio integrador 03\\Ejercicio integrador 03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F4DEB0-3E96-4FE8-9D41-B40A45BB6C3C}|Ejercicio integrado 02\\Ejercicio integrado 02.vcxproj|C:\\Users\\julia\\Desktop\\Facu\\1er a\u00F1o\\1er cuatrimestre\\Programacion\\Practica Paricla 02\\Ejercicio integrado 02\\Ejercicio integrado 02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30F4DEB0-3E96-4FE8-9D41-B40A45BB6C3C}|Ejercicio integrado 02\\Ejercicio integrado 02.vcxproj|solutionrelative:Ejercicio integrado 02\\Ejercicio integrado 02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65466184-A28C-4B85-82DD-237D0D8FCECC}|Ejercicio integrador 01\\Ejercicio integrador 01.vcxproj|C:\\Users\\julia\\Desktop\\Facu\\1er a\u00F1o\\1er cuatrimestre\\Programacion\\Practica Paricla 02\\Ejercicio integrador 01\\Ejercicio integrador 01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65466184-A28C-4B85-82DD-237D0D8FCECC}|Ejercicio integrador 01\\Ejercicio integrador 01.vcxproj|solutionrelative:Ejercicio integrador 01\\Ejercicio integrador 01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2C3441-97A1-44E4-AF2A-E059C919659E}|Bubble \u002B binario 01\\Bubble \u002B binario 01.vcxproj|C:\\Users\\julia\\Desktop\\Facu\\1er a\u00F1o\\1er cuatrimestre\\Programacion\\Practica Paricla 02\\Bubble \u002B binario 01\\Bubble \u002B binario 01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE2C3441-97A1-44E4-AF2A-E059C919659E}|Bubble \u002B binario 01\\Bubble \u002B binario 01.vcxproj|solutionrelative:Bubble \u002B binario 01\\Bubble \u002B binario 01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC559FEE-BF77-4D15-AFE1-07C15D279A59}|Busqueda Binaria 02\\Busqueda Binaria 02.vcxproj|C:\\Users\\julia\\Desktop\\Facu\\1er a\u00F1o\\1er cuatrimestre\\Programacion\\Practica Paricla 02\\Busqueda Binaria 02\\Busqueda Binaria 02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC559FEE-BF77-4D15-AFE1-07C15D279A59}|Busqueda Binaria 02\\Busqueda Binaria 02.vcxproj|solutionrelative:Busqueda Binaria 02\\Busqueda Binaria 02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9032E4-ABE1-40DA-A623-63BDC4866F04}|Busqueda Binaria 01\\Busqueda Binaria 01.vcxproj|C:\\Users\\julia\\Desktop\\Facu\\1er a\u00F1o\\1er cuatrimestre\\Programacion\\Practica Paricla 02\\Busqueda Binaria 01\\Busqueda Binaria 01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F9032E4-ABE1-40DA-A623-63BDC4866F04}|Busqueda Binaria 01\\Busqueda Binaria 01.vcxproj|solutionrelative:Busqueda Binaria 01\\Busqueda Binaria 01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 100,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ejercicio integrador 03.cpp",
+              "DocumentMoniker": "C:\\Users\\julia\\Desktop\\Facu\\1er a\u00F1o\\1er cuatrimestre\\Programacion\\Practica Paricla 02\\Ejercicio integrador 03\\Ejercicio integrador 03.cpp",
+              "RelativeDocumentMoniker": "Ejercicio integrador 03\\Ejercicio integrador 03.cpp",
+              "ToolTip": "C:\\Users\\julia\\Desktop\\Facu\\1er a\u00F1o\\1er cuatrimestre\\Programacion\\Practica Paricla 02\\Ejercicio integrador 03\\Ejercicio integrador 03.cpp",
+              "RelativeToolTip": "Ejercicio integrador 03\\Ejercicio integrador 03.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-07T18:55:44.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ejercicio integrado 02.cpp",
+              "DocumentMoniker": "C:\\Users\\julia\\Desktop\\Facu\\1er a\u00F1o\\1er cuatrimestre\\Programacion\\Practica Paricla 02\\Ejercicio integrado 02\\Ejercicio integrado 02.cpp",
+              "RelativeDocumentMoniker": "Ejercicio integrado 02\\Ejercicio integrado 02.cpp",
+              "ToolTip": "C:\\Users\\julia\\Desktop\\Facu\\1er a\u00F1o\\1er cuatrimestre\\Programacion\\Practica Paricla 02\\Ejercicio integrado 02\\Ejercicio integrado 02.cpp",
+              "RelativeToolTip": "Ejercicio integrado 02\\Ejercicio integrado 02.cpp",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAswF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-07T15:03:18.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ejercicio integrador 01.cpp",
+              "DocumentMoniker": "C:\\Users\\julia\\Desktop\\Facu\\1er a\u00F1o\\1er cuatrimestre\\Programacion\\Practica Paricla 02\\Ejercicio integrador 01\\Ejercicio integrador 01.cpp",
+              "RelativeDocumentMoniker": "Ejercicio integrador 01\\Ejercicio integrador 01.cpp",
+              "ToolTip": "C:\\Users\\julia\\Desktop\\Facu\\1er a\u00F1o\\1er cuatrimestre\\Programacion\\Practica Paricla 02\\Ejercicio integrador 01\\Ejercicio integrador 01.cpp",
+              "RelativeToolTip": "Ejercicio integrador 01\\Ejercicio integrador 01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-07T04:39:28.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bubble \u002B binario 01.cpp",
+              "DocumentMoniker": "C:\\Users\\julia\\Desktop\\Facu\\1er a\u00F1o\\1er cuatrimestre\\Programacion\\Practica Paricla 02\\Bubble \u002B binario 01\\Bubble \u002B binario 01.cpp",
+              "RelativeDocumentMoniker": "Bubble \u002B binario 01\\Bubble \u002B binario 01.cpp",
+              "ToolTip": "C:\\Users\\julia\\Desktop\\Facu\\1er a\u00F1o\\1er cuatrimestre\\Programacion\\Practica Paricla 02\\Bubble \u002B binario 01\\Bubble \u002B binario 01.cpp",
+              "RelativeToolTip": "Bubble \u002B binario 01\\Bubble \u002B binario 01.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-06T22:35:02.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Busqueda Binaria 02.cpp",
+              "DocumentMoniker": "C:\\Users\\julia\\Desktop\\Facu\\1er a\u00F1o\\1er cuatrimestre\\Programacion\\Practica Paricla 02\\Busqueda Binaria 02\\Busqueda Binaria 02.cpp",
+              "RelativeDocumentMoniker": "Busqueda Binaria 02\\Busqueda Binaria 02.cpp",
+              "ToolTip": "C:\\Users\\julia\\Desktop\\Facu\\1er a\u00F1o\\1er cuatrimestre\\Programacion\\Practica Paricla 02\\Busqueda Binaria 02\\Busqueda Binaria 02.cpp",
+              "RelativeToolTip": "Busqueda Binaria 02\\Busqueda Binaria 02.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-06T22:28:40.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Busqueda Binaria 01.cpp",
+              "DocumentMoniker": "C:\\Users\\julia\\Desktop\\Facu\\1er a\u00F1o\\1er cuatrimestre\\Programacion\\Practica Paricla 02\\Busqueda Binaria 01\\Busqueda Binaria 01.cpp",
+              "RelativeDocumentMoniker": "Busqueda Binaria 01\\Busqueda Binaria 01.cpp",
+              "ToolTip": "C:\\Users\\julia\\Desktop\\Facu\\1er a\u00F1o\\1er cuatrimestre\\Programacion\\Practica Paricla 02\\Busqueda Binaria 01\\Busqueda Binaria 01.cpp",
+              "RelativeToolTip": "Busqueda Binaria 01\\Busqueda Binaria 01.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-06T22:16:38.063Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
